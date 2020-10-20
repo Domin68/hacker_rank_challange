@@ -1,4 +1,4 @@
-package challanges.rank.hacker.just_try;
+package challanges.rank.hacker.problem_solving;
 
 import java.util.ArrayList;
 import java.util.List;
